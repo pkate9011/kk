@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Student_Detail>
+
+    <Student>
+
+        <studentno>1</studentno>
+
+        <studentname>Swapnil </studentname>
+
+        <studentcity>patas </studentcity>
+
+        <studentphno>9356111111</studentphno>
+
+    </Student>
+
+	<Student>
+
+        <studentno>2</studentno>
+
+        <studentname> Omu</studentname>
+
+        <studentcity>Baramati </studentcity>
+
+        <studentphno>914599999</studentphno>
+
+    </Student>
+
+	<Student>
+
+        <studentno>3</studentno>
+
+        <studentname> Sam</studentname>
+
+        <studentcity> Daund </studentcity>
+
+        <studentphno>923847933</studentphno>
+
+    </Student>
+
+	
+
+	<Student>
+
+        <studentno>4</studentno>
+
+        <studentcity>Avi </studentcity>
+
+        <studentphno>1993843388</studentphno>
+
+    </Student>
+
+	<Student>
+
+        <studentno>5</studentno>
+
+        <studentname> Anu</studentname>
+
+        <studentcity>supe </studentcity>
+
+        <studentphno>2934848484</studentphno>
+
+    </Student>
+
+</Student_Detail>

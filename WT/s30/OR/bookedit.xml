@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bookstore>
+<Yoga>
+<Book>
+<Book_Title> Yoga 1</Book_Title>
+<Book_Author>kale</Book_Author>
+<Book_Price>200</Book_Price>
+</Book>
+<Book>
+<Book_Title> Yoga 2</Book_Title>
+<Book_Author>ghorpade</Book_Author>
+<Book_Price>300</Book_Price>
+</Book>
+</Yoga>
+<Story>
+<Book>
+<Book_Title> story 1</Book_Title>
+<Book_Author>kale</Book_Author>
+<Book_Price>149.99</Book_Price>
+</Book>
+<Book>
+<Book_Title>story 2</Book_Title>
+<Book_Author>ghorpade</Book_Author>
+<Book_Price>149.75</Book_Price>
+</Book>
+</Story>
+<Technical>
+<Book>
+<Book_Title>Python</Book_Title>
+<Book_Author>pawar</Book_Author>
+<Book_Price>800.99</Book_Price>
+</Book>
+<Book><Book_Title>php</Book_Title>
+<Book_Author>pawar</Book_Author>
+<Book_Price>230</Book_Price>
+</Book>
+</Technical>
+</Bookstore>

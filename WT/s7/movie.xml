@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+
+	
+		<movieinfo>
+			<movieno> 1 </movieno>
+			<movietitle> Sholey </movietitle> 
+			<actorname> Amitabh Bachchan </actorname>
+			<releaseyear> 1975 </releaseyear>
+		</movieinfo>	
+	
+		<movieinfo>
+			<movieno> 2 </movieno>
+			<movietitle> Swarg  </movietitle> 
+			<actorname> Govinda </actorname>
+			<releaseyear> 1990 </releaseyear>
+		</movieinfo>
+	
+		<movieinfo>
+			<movieno> 3 </movieno>
+			<movietitle> Shapit </movietitle> 
+			<actorname> Aditya Narayan </actorname>
+			<releaseyear> 2010 </releaseyear>
+		</movieinfo>
+		
+		<movieinfo>
+			<movieno> 4 </movieno>
+			<movietitle> Bhool Bhulaiyaa  </movietitle> 
+			<actorname> Akshay Kumar </actorname>
+			<releaseyear> 2007 </releaseyear>
+		</movieinfo>
+			
+	
+		<movieinfo>
+		
+			<movieno> 5 </movieno>
+			<movietitle> KGF  </movietitle> 
+			<actorname> Yash </actorname>
+			<releaseyear> 2020 </releaseyear>
+		</movieinfo>	
+	
+		<movieinfo>
+			<movieno> 6 </movieno>
+			<movietitle> End Game  </movietitle> 
+			<actorname> Robert Downey Jr. </actorname>
+			<releaseyear> 2019 </releaseyear>
+		</movieinfo>
+			
+</category>
+	

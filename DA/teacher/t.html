@@ -1,0 +1,23 @@
+<html>
+<head>
+<script>
+function show_file()
+{
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function()
+{
+if (xhttp.readyState == 4 && xhttp.status == 200)
+{
+document.getElementById("demo").innerHTML = xhttp.responseText;
+}
+}
+xhttp.open("GET","t.php",true);
+xhttp.send();
+}
+</script>
+</head>
+<body>
+<div id="demo"><h2>Display Contains in table format</h2></div>
+<button type="button" onclick="show_file()">click Here</button>
+</body>
+</html>

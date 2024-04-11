@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Alert Box </title>
+
+</head>
+
+<body>
+
+<script>
+alert(`Exams are near,have you started preparing for?`);
+let num1=prompt('Enter First Number:');
+let num2=prompt('Enter Second Number:');
+let confirmMsg=`Are you sure you want to add ${num1} and ${num2}?`;
+
+let confirmResult = confirm(confirmMsg);
+if(confirmResult){
+let anum1=parseInt(num1);
+let anum2=parseInt(num2);
+let sum=anum1+anum2;
+alert(`The sum of ${anum1} and ${anum2} is ${sum}.`);
+}
+
+</script>
+
+</body>
+<html>
+
+

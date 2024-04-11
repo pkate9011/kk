@@ -1,0 +1,42 @@
+<?xml version = "1.0" encoding ="UTF-8"?>
+
+
+ <Book_Detail>
+
+    <book>
+
+	    <book_name> wings of fire </book_name>
+
+		<book_rate> 5000 </book_rate>
+
+		<book_quantity> 2 </book_quantity>
+
+    </book>
+
+ 
+
+    <book>
+
+	    <book_name> Miracal morning </book_name>
+
+		<book_rate> 500 </book_rate>
+
+		<book_quantity> 10 </book_quantity>
+
+    </book>
+
+	
+
+	<book>
+
+	    <book_name> 101 habits </book_name>
+
+		<book_rate> 1000 </book_rate>
+
+		<book_quantity> 4 </book_quantity>
+
+    </book>
+
+	
+
+ </Book_Detail>

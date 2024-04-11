@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+$("#btn1").click(function(){
+$("p").before("<b>before</b>.");
+});
+$("#btn2").click(function(){
+$("p").after("<b>after</b>");
+});
+});
+</script>
+</head>
+<body>
+<p>This is a paragraph.</P>
+<button id="btn1">Before</button>
+<button id="btn2">After </button>
+</body>
+</html>
